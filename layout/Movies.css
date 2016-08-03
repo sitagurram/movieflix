@@ -1,0 +1,21 @@
+body
+{
+background-image:url("background_signup.jpg");
+background-size:cover;
+
+}
+
+
+div{
+ font-family: "Comic Sans MS", cursive, sans-serif;
+font-size:20px;
+color:white;
+}
+.button1
+{
+font-family: "Comic Sans MS", cursive, sans-serif;
+background-color:silver;
+height:25px;
+text-align:center;
+}
+

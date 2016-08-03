@@ -1,0 +1,66 @@
+@media screen and (orientation:portrait)
+{
+body
+{
+background-image:url("background_signin.jpg");
+background-size:cover;
+}
+
+
+div{
+background-color:rgba(191,182,182,1);
+width:16%;
+height:20em;
+padding-left:20px;
+position:center;
+top:30%;
+bottom:50%;
+left:75%;
+border-radius:2em;
+position:fixed;
+font-size:20px;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.button1
+{
+font-family: "Comic Sans MS", cursive, sans-serif;
+background-color:silver;
+height:25px;
+text-align:center;
+}
+
+
+}
+@media screen and (orientation:landscape)
+{
+body
+{
+background-image:url("background_signin.jpg");
+background-size:cover;
+}
+
+
+div{
+background-color:rgba(191,182,182,1);
+width:16%;
+height:20em;
+padding-left:20px;
+position:center;
+top:30%;
+bottom:50%;
+left:75%;
+border-radius:2em;
+position:fixed;
+font-size:20px;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.button1
+{
+font-family: "Comic Sans MS", cursive, sans-serif;
+background-color:silver;
+height:25px;
+text-align:center;
+}
+
+
+}

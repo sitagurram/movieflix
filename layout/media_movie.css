@@ -1,0 +1,48 @@
+@media screen and (orientation:portrait)
+{
+body
+{
+background-image:url("background_signup.jpg");
+background-size:cover;
+}
+
+
+div{
+font-size:20px;
+color:white;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.button1
+{
+font-family: "Comic Sans MS", cursive, sans-serif;
+background-color:silver;
+height:25px;
+text-align:center;
+}
+
+
+}
+@media screen and (orientation:landscape)
+{
+body
+{
+background-image:url("background_signup.jpg");
+background-size:cover;
+}
+
+
+div{
+font-size:20px;
+color:white;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.button1
+{
+font-family: "Comic Sans MS", cursive, sans-serif;
+background-color:silver;
+height:25px;
+text-align:center;
+}
+
+
+}
