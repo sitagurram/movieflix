@@ -1,0 +1,19 @@
+<div id="login" >
+
+<span ng-if="error" style="color:red">{{error}}</span>
+<form>
+<h4>Sing In<br></h4>
+Email<br>
+<input type="email"  ng-model="email"/><br>
+Password<br>
+<input type="password" ng-model="password"/>
+<br>
+<br>
+<input type="button" class="button1" value="Login" ng-click="login()">
+
+</form>
+<br>
+<br>
+<a ng-href="#/signup">Click here to sign up</a>
+
+</div> 
